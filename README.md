@@ -1,24 +1,3 @@
-# Hi there! 👋 I'm Syed Ateefa Azhar
-
-💻 **B.Tech CSE (2nd Year)** student passionate about web development and programming.  
-🚀 Completed basics of **HTML**, **CSS**, and **JavaScript**.  
-🌱 Currently learning **MERN Stack**.  
-✨ Always exploring new technologies and improving my coding skills.
-
----
-
-## 🚀 Skills
-- HTML5
-- CSS3
-- JavaScript (Basics)
-
----
-
-## 📚 Currently Learning
-- MERN Stack (MongoDB, Express.js, React, Node.js)
-
-
-
 <!--
 **syedateefaazhar/syedateefaazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
