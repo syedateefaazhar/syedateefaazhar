@@ -1,8 +1,7 @@
 ## 💫 About Me  
   
 - 💻 Coder by Passion  
-- 👩‍💻 Developer by Choice  
-- 📘 Currently learning *web development*  
+- 👩‍💻 Developer by Choice   
 - 🎓 B.Tech CSE Student
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-ateefa-azhar-549672374) 
