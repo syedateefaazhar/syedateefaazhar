@@ -1,7 +1,5 @@
 ## 💫 About Me  
-
-Hi, I am *Syed Ateefa Azhar*  
-
+  
 - 💻 Coder by Passion  
 - 👩‍💻 Developer by Choice  
 - 📘 Currently learning *web development*  
